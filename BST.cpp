@@ -193,10 +193,6 @@ Node* searchBST(Node* root, int key){
 	return q;
 }
 
-// Ho Ten: Tran Thien Phu
-// MSSV: 6151071083
-// Ngay Sinh: 12-05-2002
-// Email: 6151071083@st.utc2.edu.vn
 //Cho biết nút có giá trị lớn nhất.
 Node* BST::maxValueNode(Node* p) 
 { 
@@ -206,10 +202,6 @@ Node* BST::maxValueNode(Node* p)
     return current;
 }
 
-// Ho Ten: Tran Thien Phu
-// MSSV: 6151071083
-// Ngay Sinh: 12-05-2002
-// Email: 6151071083@st.utc2.edu.vn
 //Cho biết nút có giá trị nhỏ nhất.
 Node* BST::minValueNode(Node* p) 
 { 
